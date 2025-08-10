@@ -1,0 +1,11 @@
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\bin\Debug\Lecture3_Exercise1.exe.config
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\bin\Debug\Lecture3_Exercise1.exe
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\bin\Debug\Lecture3_Exercise1.pdb
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\obj\Debug\Lecture3_Exercise1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\obj\Debug\Lecture3_Exercise1.Form1.resources
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\obj\Debug\Lecture3_Exercise1.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\obj\Debug\Lecture3_Exercise1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\obj\Debug\Lecture3_Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\obj\Debug\Lecture3_Exercise1.exe
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\obj\Debug\Lecture3_Exercise1.pdb
+C:\Users\Lenovo\OneDrive\INF 164\Lecture3_Exercise1\Lecture3_Exercise1\obj\Debug\Lecture3_Exercise1.exe.config
